@@ -1,0 +1,60 @@
+.banner{
+    background-image: url("../img/nirajan.jpg");
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.center-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    transform: translate(-50%, -50%);
+
+}
+
+.center-content h2{
+    color: white;
+    font-size: 70px;
+    font-weight: 300px;
+    text-align: center;
+}
+
+.center-content h1 {
+    color: white;
+    font-size: 50px;
+    /* font-family:  "Josefin Sans", serif; */
+    
+    
+}
+
+.center-content h1 span{
+    color: yellow;
+}
+
+.button-tag{
+    margin-top: 10px;
+    text-align: center; 
+     
+}
+
+.button1{
+    border: 1px solid white;
+    padding:  5px 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    
+
+}
+
+.button2{
+    border: 1px solid white;
+    padding:  5px 10px;
+    border-radius: 10px;
+    color: yellow;
+    background-color: white;
+   
+}
