@@ -10,6 +10,7 @@
             <div class="button-tag">
                 <button class="button1">View work</button>
                 <button class="button2">Hire Me!</button>
+                <button>this is button</button>
 
             </div>
         </div>
